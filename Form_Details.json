@@ -1,0 +1,27 @@
+[
+    {
+        "Name": "username",
+        "Type": "text",
+        "Default": "N/A"
+    },
+    {
+        "Name": "password",
+        "Type": "password",
+        "Default": "N/A"
+    },
+    {
+        "Name": "options",
+        "Type": "select",
+        "Default": "N/A"
+    },
+    {
+        "Name": "terms",
+        "Type": "checkbox",
+        "Default": "N/A"
+    },
+    {
+        "Name": "N/A",
+        "Type": "submit",
+        "Default": "Submit"
+    }
+]
